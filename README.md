@@ -48,7 +48,6 @@ Poseo un nivel de inglés avanzado y me destaco en el trabajo en equipo, el pens
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyverap&show_icons=true&locale=en&layout=compact" alt="dannyverap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyverap&show_icons=true&locale=en" alt="dannyverap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyverap&" alt="dannyverap" /></p>
 
