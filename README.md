@@ -3,7 +3,7 @@
 
 <h2 align="left">About me:</h2>
 
-I am a Full Stack Developer and Industrial Engineer graduated from the University of Lima 🚀, with experience in management control, commercial planning, and operations in various sectors. My passion for technology has led me to specialize in Front-end and Back-end, acquiring solid skills in these areas.
+I'm a Full Stack Developer and Industrial Engineer graduated from the University of Lima 🚀, with experience in management control, commercial planning, and operations in various sectors. My passion for technology has led me to specialize in Front-end and Back-end, acquiring solid skills in these areas.
 
 I have participated in notable projects, including Huntek, a matching application similar to Bumble or Tinder, where we facilitate the connection between companies and candidates using advanced technologies.
 
@@ -13,7 +13,7 @@ I have an advanced level of English and excel in teamwork, strategic thinking, a
 
 <h3 align="left">If you are interested in getting to know me better, feel free to contact me:</h3>
 
-- Danny.verap@gmail.com <a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdpPSNRWblGbpkzssjbDJhBhZHZLlrRQbXnqSQgHDrWnJFQjRQTlkgVqwJTlwpsPxFmBPVZcNGjpjPxglgWvZzdzwWhzmxFbMtnbwbFNxSsRPBsV" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="25" width="30"></a>
+- Danny.verap@gmail.com <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="25" width="30">
 
 - Linkedin <a href="https://www.linkedin.com/in/dannyvera/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dannyvera/" height="30" width="40"></a>
 
